@@ -8,8 +8,8 @@ version = '1.0.0'
 
 description = """TddSkeleton"""
 
-sourceCompatibility = "1.7"
-targetCompatibility = "1.7"
+sourceCompatibility = "11"
+targetCompatibility = "11"
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
